@@ -40,8 +40,11 @@ JavaScript
 QR Code API
 
 Screenshot
+![Screenshot 2025-03-18 182257](https://github.com/user-attachments/assets/f8d1d7d4-824d-499c-955f-6b2f1ce69538)
+![Screenshot 2025-03-18 182153](https://github.com/user-attachments/assets/9f78a96d-e5aa-40cb-936b-b391ce9f3ae9)
+![Screenshot 2025-03-18 182101](https://github.com/user-attachments/assets/9b888fea-50d6-43dc-bbc1-6263e0c12c49)
 
-(Add a screenshot of your app here)
+
 
 License
 
